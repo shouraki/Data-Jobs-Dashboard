@@ -1,0 +1,686 @@
+{
+  "results": [
+    {
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Tetra Tech"
+      },
+      "id": "5552390713",
+      "salary_max": 49131.12,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU1MjM5MDcxMyIsInMiOiJOSGlBM2dQZzhCR2FOZHdKYWRaRU1BIn0.K8cYhBd3MOX7WNTecl9DZNUOBORaGVyTYV-dcTUVbUg",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "created": "2025-12-22T23:01:32Z",
+      "title": "Civil Design Engineers / Engineers / Technician - North West / Various Locations",
+      "location": {
+        "display_name": "Manchester, Greater Manchester",
+        "area": [
+          "UK",
+          "North West England",
+          "Greater Manchester",
+          "Manchester"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "category": {
+        "tag": "engineering-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Engineering Jobs"
+      },
+      "description": "We are currently in the market to recruit multiple Civil Design Engineers (Water), ideally with wastewater networks and/or clean water networks experience, for a variety of major long-term water industry frameworks across the UK. In addition to a range of long-term programmes across the UK water industry Tetra Tech, and RPS, have successfully won a £100 million single-award framework from United Utilities to support the improvement of river health across the Northwest of England. Tetra Tech has…",
+      "salary_min": 49131.12,
+      "salary_is_predicted": "1",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5552390713?se=NHiA3gPg8BGaNdwJadZEMA&utm_medium=api&utm_source=08643d31&v=F8D1BB65BF56914F8983E1C52E5F23332D2ED8A2",
+      "contract_type": "permanent"
+    },
+    {
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiTkhpQTNnUGc4QkdhTmR3SmFkWkVNQSIsImkiOiI1NTUyMzcyMjQ3In0.p0ngMUw5GrPsta3Q0dJlnXGCWG1beSoRAdyChc56pZw",
+      "salary_max": 54743.02,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "company": {
+        "display_name": "Tetra Tech",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "id": "5552372247",
+      "description": "We are currently in the market to recruit multiple Principal Civil Design Engineers (Water), ideally with wastewater networks and/or clean water networks experience, for a variety of major long-term water industry frameworks across the UK. In addition to a range of long-term programmes across the UK water industry Tetra Tech, and RPS, have successfully won a £100 million single-award framework from United Utilities to support the improvement of river health across the Northwest of England. Tetr…",
+      "contract_type": "permanent",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5552372247?se=NHiA3gPg8BGaNdwJadZEMA&utm_medium=api&utm_source=08643d31&v=F8D229032D24F0DD0CBE777C50410C828D555328",
+      "salary_min": 54743.02,
+      "salary_is_predicted": "1",
+      "created": "2025-12-22T22:17:13Z",
+      "title": "Senior / Principal Civil Design Engineers (Water) - North West / Various",
+      "category": {
+        "tag": "engineering-jobs",
+        "label": "Engineering Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "location": {
+        "display_name": "Manchester, Greater Manchester",
+        "area": [
+          "UK",
+          "North West England",
+          "Greater Manchester",
+          "Manchester"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      }
+    },
+    {
+      "location": {
+        "display_name": "Manchester, Greater Manchester",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "North West England",
+          "Greater Manchester",
+          "Manchester"
+        ]
+      },
+      "latitude": 53.480701,
+      "title": "Data Analyst Coach / Mentor",
+      "created": "2025-12-22T08:59:23Z",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/5551748596?utm_medium=api&utm_source=08643d31",
+      "salary_min": 29793.19,
+      "salary_is_predicted": "1",
+      "salary_max": 29793.19,
+      "category": {
+        "tag": "teaching-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Teaching Jobs"
+      },
+      "longitude": -2.23438,
+      "contract_type": "permanent",
+      "description": "Job Title: Data Analyst Coach / Mentor Job ID: 11922 Location: UK Remote / Home Based Job Type: Permanent Salary: £45-55k Industry: Education Teaching and Assessing Data Analytics: Level 4 Company: One of the UKs leading Apprenticeship Training Providers are currently recruiting for a Data Analyst Coach / Mentor to join their data delivery team. This is a full time, permanent position which is fully remote & home based. They believe in people-powered transformation because they know that all tr…",
+      "id": "5551748596",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Versende Ltd"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "contract_time": "full_time",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU1MTc0ODU5NiIsInMiOiJOSGlBM2dQZzhCR2FOZHdKYWRaRU1BIn0.CQhR4DPHjNG5Co02KU06sSXbyFdrN9bSZkXkBfYnHXo"
+    },
+    {
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Elizabeth School of London"
+      },
+      "id": "5551398863",
+      "contract_time": "full_time",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiTkhpQTNnUGc4QkdhTmR3SmFkWkVNQSIsImkiOiI1NTUxMzk4ODYzIn0.UfDcnFSqs9T4SRD30Ar0pJs_eThRIdiC1T54cOlIL0s",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "longitude": -2.23438,
+      "category": {
+        "label": "Teaching Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "teaching-jobs"
+      },
+      "description": "Company: Elizabeth School of London Job Title: Student Records Officer Salary: £27,000 per annum Department: Registry Employment Type: Full Time Hours: Monday to Friday Location: ON-SITE, Manchester, UK About the Elizabeth School of London The Elizabeth School of London (ESL) is a higher education provider committed to offering relevant, high-quality programmes on campuses across six major cities including London, Birmingham, Leeds, Leicester, Manchester, and Northampton. With an inclusive appr…",
+      "salary_max": 30324.05,
+      "created": "2025-12-21T23:56:57Z",
+      "latitude": 53.480701,
+      "title": "Student Records Officer",
+      "location": {
+        "display_name": "Manchester, Greater Manchester",
+        "area": [
+          "UK",
+          "North West England",
+          "Greater Manchester",
+          "Manchester"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "salary_min": 30324.05,
+      "salary_is_predicted": "1",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5551398863?se=NHiA3gPg8BGaNdwJadZEMA&utm_medium=api&utm_source=08643d31&v=190ADEB215C72EAD7C40623858F5808BDE32CFE2"
+    },
+    {
+      "description": "Job description:- Data Mapping & Migration: Experience with data mapping, data migration, and ETL (Extract, Transform, Load) processes. Database Knowledge: Hands-On Proficiency in SQL, relational databases (Oracle, SQL Server, DB2), and data modeling. Data Quality & Validation: Skills in data validation, cleansing, and reconciliation. Data Architecture & Design : Experience with Data Transformation programs, creating and managing the data architecture roadmaps and designing and maintaining new …",
+      "salary_min": 59976.67,
+      "salary_is_predicted": "1",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5551394153?se=NHiA3gPg8BGaNdwJadZEMA&utm_medium=api&utm_source=08643d31&v=A868A307E6FABA19069969CD6DA82B101D2E42F1",
+      "title": "Snowflake Data architect",
+      "created": "2025-12-21T23:55:51Z",
+      "longitude": -2.23438,
+      "latitude": 53.480701,
+      "location": {
+        "display_name": "Manchester, Greater Manchester",
+        "area": [
+          "UK",
+          "North West England",
+          "Greater Manchester",
+          "Manchester"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "salary_max": 59976.67,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiTkhpQTNnUGc4QkdhTmR3SmFkWkVNQSIsImkiOiI1NTUxMzk0MTUzIn0.tmKlVGSopQNL0fWREVXEy3WroQNg-wRreOLu_0Sq3OI",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "company": {
+        "display_name": "Mphasis",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "id": "5551394153"
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU1MTM4Mzg0NSIsInMiOiJOSGlBM2dQZzhCR2FOZHdKYWRaRU1BIn0.wAmakITQFuTTsAY36ENlt_Jn_FPt4xK81j7CMC84gaI",
+      "contract_time": "part_time",
+      "id": "5551383845",
+      "company": {
+        "display_name": "TELUS Digital",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "contract_type": "contract",
+      "description": "Are you a detail-oriented individual with a passion for research and a good understanding of national and local geography? This freelance opportunity allows you to work at your own pace and from the comfort of your own home. A Day in the Life of an Online Data Analyst: In this role, you will be working on a project aimed at enhancing the content and quality of digital maps that are used by millions of people worldwide Completing research and evaluation tasks in a web-based environment such as v…",
+      "category": {
+        "tag": "scientific-qa-jobs",
+        "label": "Scientific & QA Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "longitude": -2.23438,
+      "salary_max": 50439.23,
+      "salary_min": 50439.23,
+      "salary_is_predicted": "1",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5551383845?se=NHiA3gPg8BGaNdwJadZEMA&utm_medium=api&utm_source=08643d31&v=25A77682E100CC44B3F7D161FE67E8E4CCE1CDDB",
+      "location": {
+        "display_name": "Manchester, Greater Manchester",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "North West England",
+          "Greater Manchester",
+          "Manchester"
+        ]
+      },
+      "title": "Online Data Analyst (Freelance)",
+      "latitude": 53.480701,
+      "created": "2025-12-21T23:54:09Z"
+    },
+    {
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "North West England",
+          "Greater Manchester",
+          "Manchester"
+        ],
+        "display_name": "Manchester, Greater Manchester"
+      },
+      "latitude": 53.480701,
+      "created": "2025-12-21T23:53:47Z",
+      "title": "Customer Insight & Speech Analyst",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5551380415?se=NHiA3gPg8BGaNdwJadZEMA&utm_medium=api&utm_source=08643d31&v=25F7C93633C1F593589637D0A155F326F70F701C",
+      "salary_min": 33112.91,
+      "salary_is_predicted": "1",
+      "salary_max": 33112.91,
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "longitude": -2.23438,
+      "contract_type": "contract",
+      "description": "Role: Customer Insight & Speech Analyst Salary: Up to £40,000 (location depending)  benefits Term: 24 month FTC Location: Manchester or Stratford, London up to 2 days per week hybrid working Hours: Mon-Fri 8am-4pm or 9am-5pm This is a great opportunity for an experienced Customer Insight & Speech Analyst to going my contact centre clients growing team. Hybrid working out of one of their offices in Manchester or Stratford, London. PLEASE ONLY APPLY FOR THIS ROLE IF YOU HAVE EXPERIENCE IN SPEECH …",
+      "id": "5551380415",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "CCA Recruitment Group"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiTkhpQTNnUGc4QkdhTmR3SmFkWkVNQSIsImkiOiI1NTUxMzgwNDE1In0.K20xIx48Qa-SwkDu978C_tdI1tzDqMusjNcwHdYIwK8"
+    },
+    {
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiTkhpQTNnUGc4QkdhTmR3SmFkWkVNQSIsImkiOiI1NTUxMzc1NzY3In0.Zrtzd2K6drHK5KCHCJ5eZfbQhiaRGo-Dg_O83i-DPwo",
+      "salary_max": 58564.96,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "MERJE"
+      },
+      "id": "5551375767",
+      "description": "Senior Credit Risk and Data Analyst Manchester 3 days a week £45K-£60K Key Responsibilities: Data Extraction and Preparation: Extract and manipulate large volumes of data from various internal systems and external data sources (e.g., credit bureaus) using SQL, SAS and other data manipulation tools. Portfolio Monitoring: Produce regular and ad-hoc Management Information (MI) reports on key credit risk metrics (e.g., delinquencies, default rates, loss rates, impairment levels) for management and …",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5551375767?se=NHiA3gPg8BGaNdwJadZEMA&utm_medium=api&utm_source=08643d31&v=A5023285F126EB2EA84E11D9DA3A2DE15B263F3E",
+      "salary_is_predicted": "1",
+      "salary_min": 58564.96,
+      "created": "2025-12-21T23:53:17Z",
+      "title": "Senior Credit Risk and Data Analyst",
+      "longitude": -2.23438,
+      "latitude": 53.480701,
+      "category": {
+        "tag": "accounting-finance-jobs",
+        "label": "Accounting & Finance Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "North West England",
+          "Greater Manchester",
+          "Manchester"
+        ],
+        "display_name": "Manchester, Greater Manchester"
+      }
+    },
+    {
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU1MDgwMzQyMiIsInMiOiJOSGlBM2dQZzhCR2FOZHdKYWRaRU1BIn0.xAsy63h0wKKo8gLfS3GXT0h1eDwW9ESV_ODG60opUWQ",
+      "contract_time": "full_time",
+      "salary_max": 60229,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "GET STAFFED ONLINE RECRUITMENT LIMITED"
+      },
+      "id": "5550803422",
+      "description": "Senior Supervision Analyst (Multiple Roles) Location: London or Manchester Business Unit(s): Supervision Position Type: Full Time Salary: £49,053 – £60,229 Our client has been established to protect and promote the sustainability of English football, for the benefit of fans and the local communities football clubs serve. They will help improve financial sustainability of clubs, ensure resilience across the leagues, and safeguard the heritage of English football. It will operate a licensing regi…",
+      "contract_type": "contract",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5550803422?se=NHiA3gPg8BGaNdwJadZEMA&utm_medium=api&utm_source=08643d31&v=A1CDEEA32A026B454893C1FF2F6949C7B9D0AEBB",
+      "salary_is_predicted": "0",
+      "salary_min": 49053,
+      "created": "2025-12-21T07:47:00Z",
+      "title": "Senior Supervision Analyst",
+      "location": {
+        "display_name": "Manchester, Greater Manchester",
+        "area": [
+          "UK",
+          "North West England",
+          "Greater Manchester",
+          "Manchester"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "category": {
+        "tag": "accounting-finance-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Accounting & Finance Jobs"
+      }
+    },
+    {
+      "contract_type": "contract",
+      "description": "Senior Supervision Analyst (Multiple Roles) Location: London or Manchester Business Unit(s): Supervision Position Type: Full Time Salary: £49,053 - £60,229 The Independent Football Regulator (IFR) has been established to protect and promote the sustainability of English football, for the benefit of fans and the local communities football clubs serve. The IFR will help improve financial sustainability of clubs, ensure resilience across the leagues, and safeguard the heritage of English football.…",
+      "category": {
+        "label": "Accounting & Finance Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "accounting-finance-jobs"
+      },
+      "longitude": -2.23438,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "contract_time": "full_time",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU0OTQwNjMwNCIsInMiOiJOSGlBM2dQZzhCR2FOZHdKYWRaRU1BIn0.ngAHrBU9I5B6o62nIqPUwUKp1urEdXyvCR3jJsylwts",
+      "id": "5549406304",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "The Independent Football Regulator"
+      },
+      "salary_is_predicted": "0",
+      "salary_min": 60000,
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/5549406304?utm_medium=api&utm_source=08643d31",
+      "location": {
+        "display_name": "Manchester, Greater Manchester",
+        "area": [
+          "UK",
+          "North West England",
+          "Greater Manchester",
+          "Manchester"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "latitude": 53.480701,
+      "created": "2025-12-20T01:27:14Z",
+      "title": "Senior Supervision Analyst",
+      "salary_max": 60000
+    },
+    {
+      "longitude": -2.23438,
+      "category": {
+        "label": "Accounting & Finance Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "accounting-finance-jobs"
+      },
+      "description": "Senior Supervision Analyst (Multiple Roles) Location: London or Manchester Business Unit(s): Supervision Position Type: Full Time Salary: £49,053 – £60,229 Our client, The Independent Football Regulator (IFR), has been established to protect and promote the sustainability of English football, for the benefit of fans and the local communities football clubs serve. The IFR will help improve financial sustainability of clubs, ensure resilience across the leagues, and safeguard the heritage of Engl…",
+      "contract_type": "permanent",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Get Staffed Online Recruitment"
+      },
+      "id": "5549218450",
+      "contract_time": "full_time",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU0OTIxODQ1MCIsInMiOiJOSGlBM2dQZzhCR2FOZHdKYWRaRU1BIn0.U810bpFzv9S0JbWNVA7vchokkN068m0TRQX-Xw8NCKM",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "created": "2025-12-19T20:42:10Z",
+      "latitude": 53.480701,
+      "title": "Senior Supervision Analyst",
+      "location": {
+        "area": [
+          "UK",
+          "North West England",
+          "Greater Manchester",
+          "Manchester"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Manchester, Greater Manchester"
+      },
+      "salary_is_predicted": "0",
+      "salary_min": 49053,
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/5549218450?utm_medium=api&utm_source=08643d31",
+      "salary_max": 60229
+    },
+    {
+      "id": "5549128820",
+      "company": {
+        "display_name": "The Independent Football Regulator",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU0OTEyODgyMCIsInMiOiJOSGlBM2dQZzhCR2FOZHdKYWRaRU1BIn0.fh91kyvII24aUe3oVrutMKkTv31n9Bv83AA-kl-0Uqo",
+      "contract_time": "full_time",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Accounting & Finance Jobs",
+        "tag": "accounting-finance-jobs"
+      },
+      "longitude": -2.220609,
+      "contract_type": "contract",
+      "description": "Senior Supervision Analyst (Multiple Roles) Location: London or Manchester Business Unit(s): Supervision Position Type: Full Time Salary: £49,053 – £60,229 The Independent Football Regulator (IFR) has been established to protect and promote the sustainability of English football, for the benefit of fans and the local communities football clubs serve. The IFR will help improve financial sustainability of clubs, ensure resilience across the leagues, and safeguard the heritage of English football.…",
+      "salary_max": 60229,
+      "location": {
+        "display_name": "Rusholme, Manchester",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "North West England",
+          "Greater Manchester",
+          "Manchester",
+          "Rusholme"
+        ]
+      },
+      "latitude": 53.459145,
+      "title": "Senior Supervision Analyst",
+      "created": "2025-12-19T19:40:17Z",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5549128820?se=NHiA3gPg8BGaNdwJadZEMA&utm_medium=api&utm_source=08643d31&v=DDB3ADE2296393E3FCB893609C2CF1A77F93E3B5",
+      "salary_min": 49053,
+      "salary_is_predicted": "0"
+    },
+    {
+      "id": "5549011596",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "ITOL Recruit"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "contract_time": "full_time",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU0OTAxMTU5NiIsInMiOiJOSGlBM2dQZzhCR2FOZHdKYWRaRU1BIn0.tWUoQb5or-hjFMqIoiCDOOAtRhcK3MkJA_98N7HNXMk",
+      "salary_max": 50000,
+      "location": {
+        "display_name": "Manchester, Greater Manchester",
+        "area": [
+          "UK",
+          "North West England",
+          "Greater Manchester",
+          "Manchester"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "category": {
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs"
+      },
+      "title": "Data Analyst Trainee",
+      "created": "2025-12-19T19:08:39Z",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5549011596?se=NHiA3gPg8BGaNdwJadZEMA&utm_medium=api&utm_source=08643d31&v=E9AEE0E3892697A6E426BA15FAA62C33BD17A53F",
+      "contract_type": "permanent",
+      "salary_is_predicted": "0",
+      "salary_min": 30000,
+      "description": "Are you looking to benefit from a new career in Data Analysis? If you are detail orientated, perceptive, organised, competent, analytical and can communicate well with those around you; you could have a truly rewarding future as a Data Analyst We do this using our specialised Data Analyst career programme which looks to assist and place qualified candidates into a career pathway in Data Analysis. Please note this career program is designed for entry level individuals with limited or no experien…"
+    },
+    {
+      "id": "5548038793",
+      "company": {
+        "display_name": "Manchester Digital",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_max": 67273.7,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiTkhpQTNnUGc4QkdhTmR3SmFkWkVNQSIsImkiOiI1NTQ4MDM4NzkzIn0.zQqwg2psuKK7KDX5SFW5NCorDd1fz4sYr1K2ljMlrYI",
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "location": {
+        "display_name": "Manchester, Greater Manchester",
+        "area": [
+          "UK",
+          "North West England",
+          "Greater Manchester",
+          "Manchester"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "created": "2025-12-19T01:24:07Z",
+      "title": "AI & Intelligent Automation Technical Lead - UK Export Finance - G7",
+      "latitude": 53.480701,
+      "longitude": -2.23438,
+      "salary_min": 67273.7,
+      "salary_is_predicted": "1",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/5548038793?utm_medium=api&utm_source=08643d31",
+      "description": "Location Westminster, London About The Job Job summary The Digital, Data and Technology (DDAT) directorate has recently been established in UKEF, drawing together the expertise in digital currently within the organisation to provide representation of digital services, user centred design, analytics and technology at the highest levels. The areas with the directorate work closely with all areas of the business such as the Business Group, Operations and Strategy and Policy. UKEF is committed to i…"
+    },
+    {
+      "location": {
+        "display_name": "Manchester Science Park, Manchester",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "North West England",
+          "Greater Manchester",
+          "Manchester",
+          "Manchester Science Park"
+        ]
+      },
+      "created": "2025-12-19T00:21:32Z",
+      "title": "Senior Electrical Design Engineer - Water Industry",
+      "latitude": 53.479568,
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5547890531?se=NHiA3gPg8BGaNdwJadZEMA&utm_medium=api&utm_source=08643d31&v=9EABEEA60B868F5180EC982C7E039C0A1B98CEA6",
+      "salary_min": 62831.75,
+      "salary_is_predicted": "1",
+      "salary_max": 62831.75,
+      "category": {
+        "tag": "engineering-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Engineering Jobs"
+      },
+      "longitude": -2.239044,
+      "contract_type": "permanent",
+      "description": "We are currently in the market to recruit a Senior Electrical and ICA Design Engineer to join our dynamic and growing Water Consultancy team operating across the UK. You'll work on exciting AMP8 and AMP9 projects, ensuring exceptional water services in a collaborative environment. RPS, Tetra Tech are actively engaged in several long-term wastewater programmes across the UK water industry, helping our clients address major pollution and flooding challenges. As part of these programmes our wastew…",
+      "id": "5547890531",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "RPS Group Plc"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiTkhpQTNnUGc4QkdhTmR3SmFkWkVNQSIsImkiOiI1NTQ3ODkwNTMxIn0.-P6z3W8kWIgulgHSGLkelVYImk7QJD0Gj_ykRPCgI7s"
+    },
+    {
+      "salary_max": 65000,
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5547820421?se=NHiA3gPg8BGaNdwJadZEMA&utm_medium=api&utm_source=08643d31&v=2B34B7ABCACE7A441B486CF7B51C46AD06371442",
+      "salary_min": 65000,
+      "salary_is_predicted": "0",
+      "title": "Lead Data Engineer",
+      "created": "2025-12-18T21:37:31Z",
+      "latitude": 53.481628,
+      "location": {
+        "area": [
+          "UK",
+          "North West England",
+          "Greater Manchester",
+          "Manchester",
+          "Manchester Science Park"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Manchester Science Park, Manchester"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU0NzgyMDQyMSIsInMiOiJOSGlBM2dQZzhCR2FOZHdKYWRaRU1BIn0.TUUJAu-FSajRcqydRfCHxbvD313z3iMAw3mwXqk_4rM",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "company": {
+        "display_name": "TPXImpact Holdings Plc",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "id": "5547820421",
+      "description": "About The Role Job level: 10 Were looking for a Lead Data Engineer to join our Data Engineering and Analytics practice. In this role, you will: Lead the design, development, management and optimisation of data pipelines to ensure efficient data flows, recognising and sharing opportunities to reuse data flows where possible. Coordinate teams and set best practices and standards when it comes to data engineering principles. Champion data engineering across projects and clients. Responsibilities L…",
+      "contract_type": "permanent",
+      "longitude": -2.24237,
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      }
+    },
+    {
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/5546901079?utm_medium=api&utm_source=08643d31",
+      "salary_is_predicted": "1",
+      "salary_min": 45192.23,
+      "title": "Associate, Client Operations Representative I",
+      "latitude": 53.480337,
+      "created": "2025-12-18T10:07:03Z",
+      "location": {
+        "display_name": "Manchester Science Park, Manchester",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "North West England",
+          "Greater Manchester",
+          "Manchester",
+          "Manchester Science Park"
+        ]
+      },
+      "salary_max": 45192.23,
+      "description": "Description Loans Administrator and Data Analyst At BNY, our culture allows us to run our company better and enables employees’ growth and success. As a leading global financial services company at the heart of the global financial system, we influence nearly 20% of the world’s investible assets. Every day, our teams harness cutting-edge AI and breakthrough technologies to collaborate with clients, driving transformative solutions that redefine industries and uplift communities worldwide. Recog…",
+      "longitude": -2.236441,
+      "category": {
+        "tag": "accounting-finance-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Accounting & Finance Jobs"
+      },
+      "contract_time": "full_time",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiTkhpQTNnUGc4QkdhTmR3SmFkWkVNQSIsImkiOiI1NTQ2OTAxMDc5In0.pFN4XkwjbXlQ5oGCmqlXrvMLvbec8c8sYrYVJShYzso",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "company": {
+        "display_name": "BNY Mellon",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "id": "5546901079"
+    },
+    {
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "longitude": -2.23438,
+      "contract_type": "contract",
+      "description": "About The Role Job level: 10 Were looking for a Lead Data Engineer to join our Data Engineering and Analytics practice. In this role, you will: Lead the design, development, management and optimisation of data pipelines to ensure efficient data flows, recognising and sharing opportunities to reuse data flows where possible. Coordinate teams and set best practices and standards when it comes to data engineering principles. Champion data engineering across projects and clients. Responsibilities L…",
+      "id": "5546865449",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "TPXImpact Holdings Plc"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU0Njg2NTQ0OSIsInMiOiJOSGlBM2dQZzhCR2FOZHdKYWRaRU1BIn0.eo4vfIxOBsCORmwkjsJidOiQkJ_PuRMoPF1S4frObYc",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "North West England",
+          "Greater Manchester",
+          "Manchester"
+        ],
+        "display_name": "Manchester, Greater Manchester"
+      },
+      "title": "Lead Data Engineer",
+      "created": "2025-12-18T09:06:40Z",
+      "latitude": 53.480701,
+      "salary_min": 65000,
+      "salary_is_predicted": "0",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/5546865449?utm_medium=api&utm_source=08643d31",
+      "salary_max": 65000
+    },
+    {
+      "title": "Senior Analyst, Regulatory Data",
+      "created": "2025-12-18T02:58:58Z",
+      "longitude": -2.23438,
+      "latitude": 53.480701,
+      "location": {
+        "display_name": "Manchester, Greater Manchester",
+        "area": [
+          "UK",
+          "North West England",
+          "Greater Manchester",
+          "Manchester"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      },
+      "description": "Job Description As a Senior Analyst, you will play a key role in determining the regulatory requirements through all phases of project delivery. The Data Engineering department is responsible for writing software and reporting systems to communicate jurisdiction specific information to international regulators. This supports the Business’s long term strategy to secure newly regulated markets become available globally. You will be at the forefront of interpreting international gambling regulator…",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/5546535746?utm_medium=api&utm_source=08643d31",
+      "salary_is_predicted": "1",
+      "salary_min": 59030.77,
+      "company": {
+        "display_name": "bet365",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "id": "5546535746",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiTkhpQTNnUGc4QkdhTmR3SmFkWkVNQSIsImkiOiI1NTQ2NTM1NzQ2In0.esLRXv-M0ZxjHVuXidGPm3NlT4w4iGS7Ph_TysCyfbI",
+      "salary_max": 59030.77,
+      "__CLASS__": "Adzuna::API::Response::Job"
+    },
+    {
+      "latitude": 53.480701,
+      "created": "2025-12-17T17:11:21Z",
+      "title": "Junior Data Consultant",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "North West England",
+          "Greater Manchester",
+          "Manchester"
+        ],
+        "display_name": "Manchester, Greater Manchester"
+      },
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/5545741204?utm_medium=api&utm_source=08643d31",
+      "salary_min": 24000,
+      "salary_is_predicted": "0",
+      "salary_max": 24000,
+      "longitude": -2.23438,
+      "category": {
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs"
+      },
+      "description": "About Sparta Global Embark on a transformative career journey with Sparta Global, where diversity, innovation, and passion for technology converge. We welcome individuals from all backgrounds, offering not just jobs, but dynamic careers in the tech industry. You'll work alongside enthusiastic professionals, receiving top-tier training and mentorship to hone your skills for success in both public and private sectors. Our commitment to designing impactful careers and coaching future leaders is ev…",
+      "contract_type": "permanent",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Sparta Global Limited"
+      },
+      "id": "5545741204",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU0NTc0MTIwNCIsInMiOiJOSGlBM2dQZzhCR2FOZHdKYWRaRU1BIn0.2pw181q2bfq2CqX4uzcBLC6fJzptgmWWst2-lxUiuPQ",
+      "__CLASS__": "Adzuna::API::Response::Job"
+    }
+  ],
+  "mean": 54013.22,
+  "__CLASS__": "Adzuna::API::Response::JobSearchResults",
+  "count": 71
+}
