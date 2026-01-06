@@ -124,7 +124,7 @@ BI Analysts and Financial Analysts have the highest average minimum salaries, wh
 
 ## Project Approach
 
-This project uses live API data rather than static datasets, following a complete workflow from API ingestion through SQL transformation to final dashboard. The focus was on answering specific business questions rather than just creating visualizations.
+This project uses live API data rather than static datasets, following a complete workflow from API ingestion through SQL transformation to final dashboard. The focus was on answering specific business questions rather than just creating visualisations.
 
 ---
 
