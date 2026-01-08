@@ -1,3 +1,7 @@
+# Architecture
+
+<img width="120" height="233" alt="diagram-export-08-01-2026-07_21_30" src="https://github.com/user-attachments/assets/46d283d0-1dce-4ae5-83e5-2cb925e6413f" />
+
 
 # UK Data Analyst Job Market Dashboard (Dec 2025)
 
