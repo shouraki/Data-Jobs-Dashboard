@@ -1,6 +1,7 @@
 # Architecture
 
-<img width="2025" height="1924" alt="image" src="https://github.com/user-attachments/assets/e57d601f-312c-4d9b-b5fb-4f635ecf8b76" />
+<img width="2003" height="435" alt="architecture" src="https://github.com/user-attachments/assets/df86d2d8-15a8-4f98-9f5d-429bc2021765" />
+
 
 
 # UK Data Analyst Job Market Dashboard (Dec 2025)
